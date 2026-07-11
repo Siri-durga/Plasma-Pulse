@@ -390,12 +390,7 @@ PlasmaPulse can be adapted for:
 
 ---
 
-# Resume Description
 
-**PlasmaPulse – Real-Time RF Plasma Generator Monitoring & Predictive Fault Detection System**
-Developed a real-time industrial monitoring and predictive maintenance platform inspired by RF plasma generators used in semiconductor manufacturing equipment. Simulated machine telemetry such as forward power, reflected power, chamber pressure, and temperature, and built a fault detection pipeline to identify anomalies, classify equipment issues, and generate maintenance alerts through an engineer-facing monitoring dashboard.
-
----
 
 # Why This Project Matters
 
@@ -408,10 +403,7 @@ PlasmaPulse demonstrates the intersection of:
 * fault detection
 * real-time dashboard development
 
-It is designed as a portfolio project for roles related to:
 
-* system engineering
-* industrial software / embedded systems
 * predictive maintenance platforms
 * semiconductor equipment monitoring
 * field diagnostics and equipment reliability
